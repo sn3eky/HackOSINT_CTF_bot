@@ -1,0 +1,1 @@
+token='$DISC_TOKEN'
